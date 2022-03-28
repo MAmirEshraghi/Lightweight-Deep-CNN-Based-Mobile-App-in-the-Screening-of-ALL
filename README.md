@@ -22,7 +22,7 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 
 ![image](https://user-images.githubusercontent.com/92205834/160406634-c83943a3-250a-4402-bd27-b51e8b90b18e.png)
 
-- **Results of detection Model:**
+- **Results of detection Model (MobileNetV3):**
 
 ![image](https://user-images.githubusercontent.com/92205834/160360330-581c268b-dd5d-458a-9722-e5e9557119fa.png)
 ![image](https://user-images.githubusercontent.com/92205834/160360345-7132cdcb-3754-4f0d-ac3c-665815f17131.png)
