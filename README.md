@@ -7,7 +7,7 @@ ALL is a highly prevalent cancer, and its definitive diagnosis demands invasive 
 
 - **Proposed framework:**
 
-![image](https://user-images.githubusercontent.com/92205834/160359763-706b10b5-2c62-4d24-bb8c-2a84041372c3.png)
+![11](https://user-images.githubusercontent.com/92205834/160405051-b0159653-bc81-4775-9ff9-642d68986f8b.png)
 
 - **Splitting data:**
 
