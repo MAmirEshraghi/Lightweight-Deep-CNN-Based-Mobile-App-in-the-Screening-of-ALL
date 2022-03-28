@@ -16,6 +16,7 @@ ALL is a highly prevalent cancer, and its definitive diagnosis demands invasive 
 - **Segmentation stages:**
 
 ![image](https://user-images.githubusercontent.com/92205834/160360181-881888b8-34a5-4fd4-b3e9-cebaa05bd58e.png)
+
 a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Thresholding, e) Cleaning methods and mask generation, f) Mask application on the RGB original image. 
 
 - **Performance of selected network in unique situation:**
@@ -34,6 +35,7 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 
 
 - **Datasets:**
+
 ALL Dataset is available at: ----Soon.
 
 - **Citation:**
