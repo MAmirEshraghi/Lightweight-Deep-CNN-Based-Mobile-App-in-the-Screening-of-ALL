@@ -18,6 +18,10 @@ ALL is a highly prevalent cancer, and its definitive diagnosis demands invasive 
 ![image](https://user-images.githubusercontent.com/92205834/160360181-881888b8-34a5-4fd4-b3e9-cebaa05bd58e.png)
 a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Thresholding, e) Cleaning methods and mask generation, f) Mask application on the RGB original image. 
 
+- **Performance of selected network in unique situation:**
+
+![image](https://user-images.githubusercontent.com/92205834/160406634-c83943a3-250a-4402-bd27-b51e8b90b18e.png)
+
 - **Results of detection Model:**
 
 ![image](https://user-images.githubusercontent.com/92205834/160360330-581c268b-dd5d-458a-9722-e5e9557119fa.png)
