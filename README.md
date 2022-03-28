@@ -1,4 +1,5 @@
-# Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL
+# A Lightweight Deep-CNN-Based Mobile Application in the Screening of Acute Lymphoblastic Leukemia
+
 
 - **Abstract:**
 
