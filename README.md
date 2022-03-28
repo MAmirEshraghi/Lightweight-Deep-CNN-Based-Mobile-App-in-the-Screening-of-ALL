@@ -26,7 +26,7 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 
 
 - **Datasets:**
-X-ray Dataset is available at: ----Soon.
+ALL Dataset is available at: ----Soon.
 
 - **Citation:**
 
