@@ -1,3 +1,16 @@
+# Abstract
+Background:
+B-cell acute lymphoblastic leukemia (B-ALL) is one of the most widespread cancers, and its definitive diagnosis demands invasive and costly diagnostic tests with side effects for patients. Access to definitive diagnostic equipment for B-ALL is limited in many geographical areas. Blood microscopic examination has always been a major B-ALL screening and diagnosis technique. Still, the examination of blood microscopically by laboratory personnel and hematologists is riddled with disadvantages. Meanwhile, AI techniques can achieve remarkable results in blood microscopy image analysis. The present study aimed to design and implement a well-tuned based on deep CNN to detect B-ALL cases from hematogones and then determine the B-ALL subtype.
+
+Methods:
+Based on the well-designed and tuned model, a mobile application was also designed for screening B-ALL from non-B-ALL cases. In the modeling stage, a unique segmentation technique was used for color thresholding in the color LAB space. By applying the K-means clustering algorithm, and adding a mask to the clustered images, a segmented image was obtained to eliminate unnecessary components. After comparing the efficiency of three notable architectures of lightweight CNN (EfficientNetB0, MobileNetV2, and NASNet Mobile), the most efficient model was selected, and the proposed model was accordingly configured and tuned.
+
+Results:
+The proposed model achieved an accuracy of 100%. Finally, a mobile application was designed based on this state-of-the-art model. In the real laboratory setting, the mobile application based on the proposed model classified B-ALL cases from other classes and achieved a sensitivity and specificity of 100% as a robust screening tool.
+
+Conclusions:
+The application that relies on preprocessing and DL algorithms can be used as a powerful screening tool by hematologists and clinical specialists to ignore or minimize unnecessary bone marrow biopsy cases and decrease the B-ALL diagnosis time.
+
 
 
 - **Proposed framework:**
