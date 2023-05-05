@@ -43,11 +43,11 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 
 - **Datasets:**
 
-ALL Dataset is available at: ----Soon.
+ALL Dataset is available at: https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class.
 
 - **Citation:**
 
-You may also access the paper: ----Soon.
+You may also access the paper: https://doi.org/10.1016/j.imu.2023.101244
 ```
 Mustafa Ghaderzadeh, Mohammad Amir Eshraghi, Azamossadat Hossein, Mohammad Rafiee, Mohammad Hossein Mohammadid 
 ```
