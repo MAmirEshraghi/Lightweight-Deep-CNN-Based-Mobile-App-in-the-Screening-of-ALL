@@ -16,6 +16,12 @@ The application that relies on preprocessing and DL algorithms can be used as a 
 - **Proposed framework:**
 ![14](https://user-images.githubusercontent.com/92205834/160648346-cd4f23ff-513c-4b2d-b070-17affd5ea8ca.png)
 
+
+- dataset samples:
+
+![2Untitlsed](https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL/assets/92205834/7a98cd2c-0648-40ec-a92a-c84c1bbb95a2)
+
+
 - **Splitting data:**
 
 ![image](https://user-images.githubusercontent.com/92205834/160360088-21689fc7-0092-47c0-8828-f4940517c9a0.png)
