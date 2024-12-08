@@ -1,3 +1,12 @@
+
+# Overall Overview:
+
+![LDA_OV](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/1794a148-2b24-4f6e-b2e0-e746683b68ed)
+
+# R&D Process:
+![LDA](https://github.com/MAmirEshraghi/Leukemia_Diagnosis_Application/assets/92205834/9dd8d252-704e-4a70-ad48-bf8e70c98a09)
+
+
 # Abstract
 Background:
 B-cell acute lymphoblastic leukemia (B-ALL) is one of the most widespread cancers, and its definitive diagnosis demands invasive and costly diagnostic tests with side effects for patients. Access to definitive diagnostic equipment for B-ALL is limited in many geographical areas. Blood microscopic examination has always been a major B-ALL screening and diagnosis technique. Still, the examination of blood microscopically by laboratory personnel and hematologists is riddled with disadvantages. Meanwhile, AI techniques can achieve remarkable results in blood microscopy image analysis. The present study aimed to design and implement a well-tuned based on deep CNN to detect B-ALL cases from hematogones and then determine the B-ALL subtype.
