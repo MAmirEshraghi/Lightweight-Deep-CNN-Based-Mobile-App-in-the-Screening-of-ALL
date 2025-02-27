@@ -73,6 +73,9 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 ALL Dataset is available at: https://www.kaggle.com/datasets/mohammadamireshraghi/blood-cell-cancer-all-4class.
 
 - **Citation:**
+If you use this dataset or code in your research, please credit the authors.
+
+Azamossadat Hosseini, Mohammad Amir (Robin) Eshraghi, Tania Taami, Hamidreza Sadeghsalehi, Zahra Hoseinzadeh, Mustafa Ghaderzadeh, Mohammad Rafiee, A mobile application based on efficient lightweight CNN model for classification of B-ALL cancer from non-cancerous cells: A design and implementation study, Informatics in Medicine Unlocked, Volume 39, 2023, 101244, ISSN 2352-9148,
 
 You may also access the paper: https://doi.org/10.1016/j.imu.2023.101244
 ```
