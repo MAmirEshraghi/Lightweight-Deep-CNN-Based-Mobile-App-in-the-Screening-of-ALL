@@ -59,13 +59,9 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 # How to Work:
 
 - First, Capturing a certain sample using the smartphone's camera from the microscope eyepiece: 
-![VID-20230508-WA0004](https://user-images.githubusercontent.com/92205834/236793089-76d68634-f99e-4da6-98de-50cc366ab538.gif)
-
 - Second, edit the taken sample using the provided options to adjust the part that is suspected of having leukemia cancer cells.
 
-![XRecorder_08052023_154037](https://user-images.githubusercontent.com/92205834/236821979-2e96be01-9410-4186-b120-ed2171d7016b.gif)
-![asdf](https://user-images.githubusercontent.com/92205834/236824103-248db09d-296f-4239-aba1-14049469657a.gif)
-
+![Rec00421-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/99153e6e-644a-4cd9-afbe-3809d1caa04a)
 
 
 - **Datasets:**
