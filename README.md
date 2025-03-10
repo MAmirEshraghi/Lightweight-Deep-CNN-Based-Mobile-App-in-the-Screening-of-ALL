@@ -26,22 +26,19 @@ The application that relies on preprocessing and DL algorithms can be used as a 
 ![14](https://user-images.githubusercontent.com/92205834/160648346-cd4f23ff-513c-4b2d-b070-17affd5ea8ca.png)
 
 
+
 - dataset samples:
 
 ![2Untitlsed](https://github.com/MAmirEshraghi/Lightweight-Deep-CNN-Based-Mobile-App-in-the-Screening-of-ALL/assets/92205834/7a98cd2c-0648-40ec-a92a-c84c1bbb95a2)
 
+![L35](https://github.com/user-attachments/assets/2b5b0bef-de46-40cb-bf4a-716252cff1ab)
+![L36](https://github.com/user-attachments/assets/ea832d21-dcaa-4d73-9fc7-8c2fafff7466)
 
-- **Splitting data:**
-
-![image](https://user-images.githubusercontent.com/92205834/160360088-21689fc7-0092-47c0-8828-f4940517c9a0.png)
 
 - **Segmentation stages:**
-
-![image](https://user-images.githubusercontent.com/92205834/160360181-881888b8-34a5-4fd4-b3e9-cebaa05bd58e.png)
-
 a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Thresholding, e) Cleaning methods and mask generation, f) Mask application on the RGB original image. 
 
-- **Performance of selected network in unique situation:**
+- **Performance of selected network in a unique situation:**
 
 ![image](https://user-images.githubusercontent.com/92205834/160406634-c83943a3-250a-4402-bd27-b51e8b90b18e.png)
 
@@ -51,7 +48,7 @@ a) RGB color space, b) LAB color space, c) K-Means Clustering d) Binary Threshol
 ![image](https://user-images.githubusercontent.com/92205834/160360345-7132cdcb-3754-4f0d-ac3c-665815f17131.png)
 ![image](https://user-images.githubusercontent.com/92205834/160360362-45b4d4ac-1f2a-4e94-a8e7-fea75c3d531d.png)
 
-- **Mobile Application Based on Proposed model in Detection and Diagnosis ALL:**
+- **Mobile Application Based on Proposed Model in Detection and Diagnosis ALL:**
 
 ![image](https://user-images.githubusercontent.com/92205834/160360502-9dd72bcf-30f1-489a-a67b-29a1fdd05fa1.png)
 
